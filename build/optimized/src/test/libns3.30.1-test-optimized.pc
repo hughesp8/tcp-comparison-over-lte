@@ -1,0 +1,10 @@
+prefix=/usr/local
+libdir=/usr/local/lib
+includedir=/usr/local/include/ns3.30.1
+
+Name: libns3-test
+Description: ns-3 module ns3-test
+Version: 3.30.1
+Libs: -L${libdir} -Wl,-Bdynamic -lns3.30.1-test-optimized
+Cflags: -I${includedir}
+Requires: libns3.30.1-applications-optimized libns3.30.1-bridge-optimized libns3.30.1-config-store-optimized libns3.30.1-csma-optimized libns3.30.1-csma-layout-optimized libns3.30.1-dsr-optimized libns3.30.1-flow-monitor-optimized libns3.30.1-internet-optimized libns3.30.1-lr-wpan-optimized libns3.30.1-lte-optimized libns3.30.1-mesh-optimized libns3.30.1-mobility-optimized libns3.30.1-olsr-optimized libns3.30.1-point-to-point-optimized libns3.30.1-sixlowpan-optimized libns3.30.1-stats-optimized libns3.30.1-uan-optimized libns3.30.1-wifi-optimized libns3.30.1-internet-apps-optimized libns3.30.1-point-to-point-layout-optimized libns3.30.1-traffic-control-optimized
