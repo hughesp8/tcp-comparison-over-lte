@@ -1,1 +1,1 @@
-./waf --run "scratch/overall --traceFile=/home/paddyxvy/mobility.tcl --ueNodeNum=51 --duration=285 --tcp_algorithm=TcpNewReno --run=1"
+./waf --run "scratch/tcp_comparison_lte --traceFile=/home/paddyxvy/mobility.tcl --ueNodeNum=51 --duration=285 --tcp_algorithm=TcpNewReno --run=1"

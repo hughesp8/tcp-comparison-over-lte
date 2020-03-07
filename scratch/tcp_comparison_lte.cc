@@ -244,7 +244,7 @@ int main (int argc, char *argv[])
   SeedManager::SetRun (run);
 
   Config::SetDefault ("ns3::LteEnbRrc::SrsPeriodicity", UintegerValue (80));
-  Config::SetDefault ("ns3::LteEnbRrc::EpsBearerToRlcMapping", EnumValue ("RLC_AM_ALWAYS"));
+  Config::SetDefault ("ns3::LteEnbRrc::EpsBearerToRlcMapping", EnumValue (ns3::LteEnbRrc::RLC_AM_ALWAYS));
   Config::SetDefault ("ns3::LteEnbPhy::TxPower", DoubleValue (46.0));
   Config::SetDefault ("ns3::LteEnbPhy::NoiseFigure", DoubleValue (5.0));
   Config::SetDefault ("ns3::LteUePhy::NoiseFigure", DoubleValue (7.0));
