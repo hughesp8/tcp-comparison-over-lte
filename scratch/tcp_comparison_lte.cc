@@ -244,7 +244,7 @@ int main (int argc, char *argv[])
   SeedManager::SetRun (run);
 
   Config::SetDefault ("ns3::LteEnbRrc::SrsPeriodicity", UintegerValue (80));
-  Config::SetDefault ("ns3::LteEnbRrc::EpsBearerToRlcMapping", EnumValue (ns3::LteEnbRrc::RLC_AM_ALWAYS));
+  Config::SetDefault ("ns3::LteEnbRrc::EpsBearerToRlcMapping", StringValue ("RlcAmAlways"));
   Config::SetDefault ("ns3::LteEnbPhy::TxPower", DoubleValue (46.0));
   Config::SetDefault ("ns3::LteEnbPhy::NoiseFigure", DoubleValue (5.0));
   Config::SetDefault ("ns3::LteUePhy::NoiseFigure", DoubleValue (7.0));
@@ -309,6 +309,23 @@ int main (int argc, char *argv[])
                                              UintegerValue (30));
   lteHelper->SetHandoverAlgorithmAttribute ("NeighbourCellOffset",
                                              UintegerValue (1));
+
+  lteHelper->SetAttribute ("FadingModel", StringValue ("ns3::TraceFadingLossModel"));
+  
+  std::ifstream ifTraceFile;
+  ifTraceFile.open ("/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/src/lte/model/fading-traces/fading_trace_EVA_60kmph.fad", std::ifstream::in);
+  lteHelper->SetFadingModelAttribute ("TraceFilename", StringValue ("/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/src/lte/model/fading-traces/fading_trace_EVA_60kmph.fad"));
+    
+  // these parameters have to be set only in case of the trace format 
+  // differs from the standard one, that is
+  // - 10 seconds length trace
+  // - 10,000 samples
+  // - 0.5 seconds for window size
+  // - 100 
+  lteHelper->SetFadingModelAttribute ("TraceLength", TimeValue (Seconds (10.0)));
+  lteHelper->SetFadingModelAttribute ("SamplesNum", UintegerValue (10000));
+  lteHelper->SetFadingModelAttribute ("WindowSize", TimeValue (Seconds (0.5)));
+  lteHelper->SetFadingModelAttribute ("RbNum", UintegerValue (100));
 
   Ptr<Node> pgw = epcHelper->GetPgwNode ();
   std::cout << "Id of pgw node: " << pgw->GetId() << std::endl;

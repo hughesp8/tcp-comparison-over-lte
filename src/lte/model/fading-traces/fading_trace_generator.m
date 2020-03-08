@@ -18,10 +18,10 @@ power_urbanETU = [-1.0 -1.0 -1.0 0.0 0.0 0.0 -3.0 -5.0 -7.0];
 % fc = 2160e6; %
 
 % UL  EARFCN=18100
-fc = 1930e6;
+fc = 2655e6;
 
 lambda = c/fc;
-v_km_h = 3.0;  % speed of mobile node
+v_km_h = 120.0;  % speed of mobile node
 v_m_s = v_km_h / 3.6;
 fd = v_m_s / lambda; % doppler shift
 
@@ -55,7 +55,7 @@ TTI = 0.001;
 numSamples = TTI / ts;
 
 % total trace duration in s
-traceDuration = 10.0;
+traceDuration = 285.0;
 
 numRBs = 100;
 
@@ -103,7 +103,7 @@ title ('Fading Pedestrian EPA 3kmph');
 %title('Fading Urban ETU 0 kmph');
 %title('Fading Urban ETU 3 kmph');
 %title('Fading Urban ETU 30 kmph');
-tag = 'EPA_3kmph';
+tag = 'EVA_120kmph';
 %tag = 'EVA_60kmph';
 %tag = 'ETU_0kmph';
 %tag = 'ETU_3kmph';
