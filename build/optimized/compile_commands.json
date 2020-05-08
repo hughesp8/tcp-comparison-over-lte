@@ -4331,12 +4331,12 @@
   },
   {
     "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
-    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../scratch/subdir/scratch-simulator-subdir.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/scratch/subdir/scratch-simulator-subdir.cc.2.o",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../scratch/subdir/scratch-simulator-subdir.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/scratch/subdir/scratch-simulator-subdir.cc.3.o",
     "file": "../../scratch/subdir/scratch-simulator-subdir.cc"
   },
   {
     "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
-    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../scratch/scratch-simulator.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/scratch/scratch-simulator.cc.3.o",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../scratch/scratch-simulator.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/scratch/scratch-simulator.cc.4.o",
     "file": "../../scratch/scratch-simulator.cc"
   },
   {
@@ -4376,7 +4376,242 @@
   },
   {
     "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
-    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../scratch/overall.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/scratch/overall.cc.1.o",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../scratch/overall.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/scratch/overall.cc.2.o",
     "file": "../../scratch/overall.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../scratch/tcp_comparison_lte.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/scratch/tcp_comparison_lte.cc.7.o",
+    "file": "../../scratch/tcp_comparison_lte.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../scratch/single.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/scratch/single.cc.8.o",
+    "file": "../../scratch/single.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../src/internet/model/tcp-cubic.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/internet/model/tcp-cubic.cc.1.o",
+    "file": "../../src/internet/model/tcp-cubic.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/antenna/bindings -I../../src/antenna/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG src/antenna/bindings/ns3module.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/antenna/bindings/ns3module.cc.7.o",
+    "file": "src/antenna/bindings/ns3module.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/aodv/bindings -I../../src/aodv/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG src/aodv/bindings/ns3module.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/aodv/bindings/ns3module.cc.7.o",
+    "file": "src/aodv/bindings/ns3module.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/applications/bindings -I../../src/applications/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG src/applications/bindings/ns3module.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/applications/bindings/ns3module.cc.7.o",
+    "file": "src/applications/bindings/ns3module.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/bridge/bindings -I../../src/bridge/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG src/bridge/bindings/ns3module.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/bridge/bindings/ns3module.cc.5.o",
+    "file": "src/bridge/bindings/ns3module.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/buildings/bindings -I../../src/buildings/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG src/buildings/bindings/ns3module.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/buildings/bindings/ns3module.cc.7.o",
+    "file": "src/buildings/bindings/ns3module.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/config-store/bindings -I../../src/config-store/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG src/config-store/bindings/ns3module.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/config-store/bindings/ns3module.cc.6.o",
+    "file": "src/config-store/bindings/ns3module.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/core/bindings -I../../src/core/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG src/core/bindings/ns3module.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/core/bindings/ns3module.cc.10.o",
+    "file": "src/core/bindings/ns3module.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/core/bindings -I../../src/core/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG ../../src/core/bindings/module_helpers.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/core/bindings/module_helpers.cc.10.o",
+    "file": "../../src/core/bindings/module_helpers.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/csma/bindings -I../../src/csma/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG src/csma/bindings/ns3module.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/csma/bindings/ns3module.cc.5.o",
+    "file": "src/csma/bindings/ns3module.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/csma-layout/bindings -I../../src/csma-layout/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG src/csma-layout/bindings/ns3module.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/csma-layout/bindings/ns3module.cc.5.o",
+    "file": "src/csma-layout/bindings/ns3module.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/dsdv/bindings -I../../src/dsdv/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG src/dsdv/bindings/ns3module.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/dsdv/bindings/ns3module.cc.7.o",
+    "file": "src/dsdv/bindings/ns3module.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/dsr/bindings -I../../src/dsr/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG src/dsr/bindings/ns3module.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/dsr/bindings/ns3module.cc.7.o",
+    "file": "src/dsr/bindings/ns3module.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/energy/bindings -I../../src/energy/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG src/energy/bindings/ns3module.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/energy/bindings/ns3module.cc.7.o",
+    "file": "src/energy/bindings/ns3module.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/fd-net-device/bindings -I../../src/fd-net-device/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG src/fd-net-device/bindings/ns3module.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/fd-net-device/bindings/ns3module.cc.7.o",
+    "file": "src/fd-net-device/bindings/ns3module.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/flow-monitor/bindings -I../../src/flow-monitor/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG src/flow-monitor/bindings/ns3module.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/flow-monitor/bindings/ns3module.cc.7.o",
+    "file": "src/flow-monitor/bindings/ns3module.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/internet/bindings -I../../src/internet/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG src/internet/bindings/ns3module.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/internet/bindings/ns3module.cc.8.o",
+    "file": "src/internet/bindings/ns3module.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/internet-apps/bindings -I../../src/internet-apps/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG src/internet-apps/bindings/ns3module.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/internet-apps/bindings/ns3module.cc.7.o",
+    "file": "src/internet-apps/bindings/ns3module.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/lr-wpan/bindings -I../../src/lr-wpan/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG src/lr-wpan/bindings/ns3module.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/lr-wpan/bindings/ns3module.cc.7.o",
+    "file": "src/lr-wpan/bindings/ns3module.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/lte/bindings -I../../src/lte/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG src/lte/bindings/ns3module.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/lte/bindings/ns3module.cc.7.o",
+    "file": "src/lte/bindings/ns3module.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/mesh/bindings -I../../src/mesh/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG src/mesh/bindings/ns3module.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/mesh/bindings/ns3module.cc.7.o",
+    "file": "src/mesh/bindings/ns3module.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/mobility/bindings -I../../src/mobility/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG src/mobility/bindings/ns3module.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/mobility/bindings/ns3module.cc.7.o",
+    "file": "src/mobility/bindings/ns3module.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/mpi/bindings -I../../src/mpi/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG src/mpi/bindings/ns3module.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/mpi/bindings/ns3module.cc.5.o",
+    "file": "src/mpi/bindings/ns3module.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/network/bindings -I../../src/network/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG src/network/bindings/ns3module.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/network/bindings/ns3module.cc.7.o",
+    "file": "src/network/bindings/ns3module.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/nix-vector-routing/bindings -I../../src/nix-vector-routing/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG src/nix-vector-routing/bindings/ns3module.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/nix-vector-routing/bindings/ns3module.cc.5.o",
+    "file": "src/nix-vector-routing/bindings/ns3module.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/olsr/bindings -I../../src/olsr/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG src/olsr/bindings/ns3module.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/olsr/bindings/ns3module.cc.7.o",
+    "file": "src/olsr/bindings/ns3module.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/point-to-point/bindings -I../../src/point-to-point/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG src/point-to-point/bindings/ns3module.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/point-to-point/bindings/ns3module.cc.7.o",
+    "file": "src/point-to-point/bindings/ns3module.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/point-to-point-layout/bindings -I../../src/point-to-point-layout/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG src/point-to-point-layout/bindings/ns3module.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/point-to-point-layout/bindings/ns3module.cc.5.o",
+    "file": "src/point-to-point-layout/bindings/ns3module.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/propagation/bindings -I../../src/propagation/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG src/propagation/bindings/ns3module.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/propagation/bindings/ns3module.cc.7.o",
+    "file": "src/propagation/bindings/ns3module.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/sixlowpan/bindings -I../../src/sixlowpan/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG src/sixlowpan/bindings/ns3module.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/sixlowpan/bindings/ns3module.cc.7.o",
+    "file": "src/sixlowpan/bindings/ns3module.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/spectrum/bindings -I../../src/spectrum/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG src/spectrum/bindings/ns3module.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/spectrum/bindings/ns3module.cc.7.o",
+    "file": "src/spectrum/bindings/ns3module.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/stats/bindings -I../../src/stats/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG src/stats/bindings/ns3module.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/stats/bindings/ns3module.cc.7.o",
+    "file": "src/stats/bindings/ns3module.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/tap-bridge/bindings -I../../src/tap-bridge/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG src/tap-bridge/bindings/ns3module.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/tap-bridge/bindings/ns3module.cc.6.o",
+    "file": "src/tap-bridge/bindings/ns3module.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/topology-read/bindings -I../../src/topology-read/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG src/topology-read/bindings/ns3module.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/topology-read/bindings/ns3module.cc.7.o",
+    "file": "src/topology-read/bindings/ns3module.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/traffic-control/bindings -I../../src/traffic-control/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG src/traffic-control/bindings/ns3module.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/traffic-control/bindings/ns3module.cc.7.o",
+    "file": "src/traffic-control/bindings/ns3module.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/uan/bindings -I../../src/uan/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG src/uan/bindings/ns3module.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/uan/bindings/ns3module.cc.7.o",
+    "file": "src/uan/bindings/ns3module.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/virtual-net-device/bindings -I../../src/virtual-net-device/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG src/virtual-net-device/bindings/ns3module.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/virtual-net-device/bindings/ns3module.cc.5.o",
+    "file": "src/virtual-net-device/bindings/ns3module.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/wave/bindings -I../../src/wave/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG src/wave/bindings/ns3module.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/wave/bindings/ns3module.cc.7.o",
+    "file": "src/wave/bindings/ns3module.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/wifi/bindings -I../../src/wifi/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG src/wifi/bindings/ns3module.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/wifi/bindings/ns3module.cc.7.o",
+    "file": "src/wifi/bindings/ns3module.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -fPIC -g -fdebug-prefix-map=/build/python3.6-PHwBoS/python3.6-3.6.9=. -fstack-protector -g -fwrapv -O3 -fvisibility=hidden -Wno-array-bounds -pthread -I. -I../.. -Isrc/wimax/bindings -I../../src/wimax/bindings -I/usr/include/python3.6m -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 -DNS_DEPRECATED= -DNS3_DEPRECATED_H -DNDEBUG src/wimax/bindings/ns3module.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/src/wimax/bindings/ns3module.cc.7.o",
+    "file": "src/wimax/bindings/ns3module.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../scratch/comparison_v2.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/scratch/comparison_v2.cc.1.o",
+    "file": "../../scratch/comparison_v2.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../scratch/single_edit.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/scratch/single_edit.cc.6.o",
+    "file": "../../scratch/single_edit.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../scratch/loaded_four.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/scratch/loaded_four.cc.5.o",
+    "file": "../../scratch/loaded_four.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../scratch/scenario_3.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/scratch/scenario_3.cc.3.o",
+    "file": "../../scratch/scenario_3.cc"
+  },
+  {
+    "directory": "/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized",
+    "command": "/usr/bin/g++ -O3 -g -Wall -Werror -march=native -fstrict-overflow -Wstrict-overflow=2 -std=c++11 -fstrict-aliasing -Wstrict-aliasing -pthread -I. -I../.. -DNS3_BUILD_PROFILE_OPTIMIZED -DHAVE_SYS_IOCTL_H=1 -DHAVE_IF_NETS_H=1 -DHAVE_NET_ETHERNET_H=1 -DHAVE_PACKET_H=1 -DHAVE_IF_TUN_H=1 ../../scratch/scenario_1.cc -c -o/home/paddyxvy/ns-allinone-3.30.1/ns-3.30.1/build/optimized/scratch/scenario_1.cc.4.o",
+    "file": "../../scratch/scenario_1.cc"
   }
 ]

@@ -88,6 +88,7 @@
 #include "rtt-estimator.h"
 #include "tcp-bic.h"
 #include "tcp-congestion-ops.h"
+#include "tcp-cubic.h"
 #include "tcp-header.h"
 #include "tcp-highspeed.h"
 #include "tcp-htcp.h"

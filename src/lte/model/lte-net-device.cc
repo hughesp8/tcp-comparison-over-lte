@@ -294,6 +294,7 @@ LteNetDevice::Receive (Ptr<Packet> p)
     }
   else
     {
+
       NS_ABORT_MSG ("LteNetDevice::Receive - Unknown IP type...");
     }
 }
